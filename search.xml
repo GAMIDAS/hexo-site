@@ -1,20 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>PHOTOS</title>
-    <url>/hexo-site/2024/01/22/asset/</url>
-    <content><![CDATA[<h4 id="Don’t-know"><a href="#Don’t-know" class="headerlink" title="Don’t know,"></a>Don’t know,</h4><img  
-                     lazyload
-                     src="/images/loading.svg"
-                     data-src="/hexo-site/2024/01/22/asset/exm.jpg"
-                      class=""
-                >
-<h6 id="Why-this-is-made"><a href="#Why-this-is-made" class="headerlink" title="Why this is made!!"></a>Why this is made!!</h6>]]></content>
-      <tags>
-        <tag>PHOTOS</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>My First Post</title>
     <url>/hexo-site/2024/01/21/hello-world/</url>
     <content><![CDATA[<p>Welcome to <a class="link"   href="https://hexo.io/" >Hexo <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>! This is my very first post. Check <a class="link"   href="https://hexo.io/docs/" >documentation <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> for more info. If you get any problems when using Hexo, you can find the answer in <a class="link"   href="https://hexo.io/docs/troubleshooting.html" >troubleshooting <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a> or you can ask me on <a class="link"   href="https://github.com/hexojs/hexo/issues" >GitHub <i class="fa-regular fa-arrow-up-right-from-square fa-sm"></i></a>.</p>
@@ -35,7 +21,16 @@
     <content><![CDATA[
 <h4 id="Just-an-example-photo"><a href="#Just-an-example-photo" class="headerlink" title="Just an example photo"></a>Just an example photo</h4>]]></content>
       <tags>
-        <tag>-Tag1</tag>
+        <tag>Post4</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>PHOTOS</title>
+    <url>/hexo-site/2024/01/22/PHOTOS/</url>
+    <content><![CDATA[<h4 id="Don’t-know"><a href="#Don’t-know" class="headerlink" title="Don’t know,"></a>Don’t know,</h4>
+<h6 id="Why-this-is-made"><a href="#Why-this-is-made" class="headerlink" title="Why this is made!!"></a>Why this is made!!</h6>]]></content>
+      <tags>
+        <tag>PHOTOS</tag>
       </tags>
   </entry>
 </search>
