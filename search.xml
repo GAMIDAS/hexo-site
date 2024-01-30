@@ -37,4 +37,12 @@
         <tag>Fisrt Post</tag>
       </tags>
   </entry>
+  <entry>
+    <title>New Post</title>
+    <url>/hexo-site/2024/01/31/post/</url>
+    <content><![CDATA[<h2 id="Hello-Again"><a href="#Hello-Again" class="headerlink" title="Hello Again!!!"></a>Hello Again!!!</h2>]]></content>
+      <tags>
+        <tag>-Tag1</tag>
+      </tags>
+  </entry>
 </search>
